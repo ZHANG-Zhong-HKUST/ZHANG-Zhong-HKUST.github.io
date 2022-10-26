@@ -9,6 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+
+I may look like a CS guy, but I want to do Economics research in the future.
+
 Education
 ======
 * The Hong Kong University of Science and Technology (2020-2024)
@@ -61,22 +64,20 @@ Skills
 
 Acedemic Awards
 ===
-|Title|Organizer|Rank|Date/Period|
-|:---|:---|:---|:---|
-|Tsinghua-HKUST Programming Contest| HKUST;National Tsing Hua University; Tsinghua University |*3rd* | Aug. 27, 2022|
-|International Collegiate Programming Contest (ICPC) Asia East Continent Final | ICPC Foundation; Northwestern Polytechnical University |*Bronze Medal*|July 19-20 2022|
-|International Collegiate Programming Contest (ICPC) Asia Jinan Regional Contest|ICPC Foundation; Qilu University of Technology (Shandong Academy of Sciences) |*Silver Medal*|Nov.13-14 2021|
-|Tsinghua-HKUST Programming Contest| National Tsing Hua University; Tsinghua University; HKUST|*3rd*|Aug. 28, 2021|
-|SENG Dean's List|HKUST||2021 Fall|
-|SENG Dean's List|HKUST||2021 Spring|
-|SENG Dean's List|HKUST||2020 Fall|
-|International Collegiate Programming Contest (ICPC) Asia Nanjing Regional Contest|ICPC Foundation; Nanjing University of Aeronautics and Astronautics|*Silver Medal*|Feb.19-20 2020|
-|Peking University's Olymiad in Informatics Winter Camp (PKUWC)|Peking University|*Second Prize*|2018|
-|Guang Dong Olympiad in Informatics (GDOI)|CCF(Guang Dong);Sun Yat-sen University|*Second prize*|2018|
-|National Olympiad in Informatics in Provinces (NOIP)|CCF|*First prize*|2016,2017,2018|
+* *Dean's List* School of Engineering, HKUST (Every semesters at school)
+* *3rd* Tsinghua-HKUST Programming Contest (2022)
+* *Bronze Medel* International Collegiate Programming Contest (ICPC) Asia East Continent Final (2022)
+* *Silver Medal* International Collegiate Programming Contest (ICPC) Asia Jinan Regional Contest (2021)
+* *3rd* Tsinghua-HKUST Programming Contest (2021)
+* *Silver Medal* International Collegiate Programming Contest (ICPC) Asia Nanjing Regional Contest (2020)
+* *Second Prize* Peking University's Olymiad in Informatics Winter Camp (PKUWC) (2018)
+* *Second Prize* Guang Dong Olympiad in Informatics (GDOI) (2018)
+* *First Prize* National Olympiad in Informatics in Provinces (NOIP) (2016,2017,2018)
 
-Other Activities
+
+Services, Society
 ===
+* HKUST ACM Team member
 * *Promotion Secretary* of Mainland Students and Scholars Society, UG Section, HKUST (MSSSUG) 2021-2022
 * *Mentor* of Peer Mentor Program *held by* MSSSUG 2022
 

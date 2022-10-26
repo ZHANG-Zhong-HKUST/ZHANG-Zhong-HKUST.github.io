@@ -12,4 +12,3 @@ Hello world!
 
 I like traveling.
 
-I may look like a CS guy, but I want to do Economics research in the future.
