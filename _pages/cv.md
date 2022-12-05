@@ -15,7 +15,7 @@ I may look like a CS guy, but I want to do Economics research in the future.
 Education
 ======
 * The Hong Kong University of Science and Technology (2020-2024)
-* Bachelor of Engineering, Major in Computer Science, additional major in Economics
+  * Bachelor of Engineering, Major in Computer Science, additional major in Economics
 
 Work experience
 ======
