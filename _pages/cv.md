@@ -29,7 +29,8 @@ Project experience
 
 * Economics project: Firms in Globalization, Evidence from China (ongoing)
   * An Undergraduate Research Opportunity Program by HKUST, supervised by [Prof. Yao Amber LI](http://yaoli.people.ust.hk/)
-  * Data Analysis
+  * Topics: how innovation behavior affect firms' trade value
+  * Duites: *Data gathering*, *Preprocessing*, *Data Analysis*
 
 * AI project: Trigger word detection (2022)
   * Built a programming assignment for a [new AI course](https://seng.hkust.edu.hk/sites/default/files/IMCE/UG/Course%20Syllabus/Spring_2021-2022/COMP2211_Spring%2021-22.pdf) in HKUST.
