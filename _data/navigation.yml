@@ -18,6 +18,9 @@ main:
             
   - title: "Blogs"
     url: /year-archive/
+
+  - title: "Transcript"
+    url: /transcript/
     
   # - title: "Guide"
   #   url: /markdown/
