@@ -12,22 +12,27 @@ redirect_from:
 
 I may look like a CS guy, but I want to do Economics research in the future.
 
+[PDF Version](https://zhang-zhong-hkust.github.io/files/CV.pdf)
+
 Education
 ======
 * The Hong Kong University of Science and Technology (2020-2024)
   * Bachelor of Engineering, Major in Computer Science, additional major in Economics
+  * Exchange to University of Maryland, College Park, U.S.
+  * Exchange to East and Central Europe Study, Charles University, Czech Republic
 
-Work experience
+
+Industrial experience
 ======
 * Feb-July 2022: Internship
   * ByteDance Ltd. *JS Virtual Machine team, R&D*.
-  * Duties included: *New Feature Development*, *Maintenance*, *Quality Assurance* 
+  * Duties included: *New Feature Development*, *Maintenance*, *Quality Assurance*
 
 
 Project experience
 ===
 
-* Economics project: Firms in Globalization, Evidence from China (ongoing)
+* Economics project: Firms in Globalization, Evidence from China (2022)
   * An Undergraduate Research Opportunity Program by HKUST, supervised by [Prof. Yao Amber LI](http://yaoli.people.ust.hk/)
   * Topics: how innovation behavior affect firms' trade value
   * Duites: *Data gathering*, *Preprocessing*, *Data Analysis*
@@ -60,11 +65,13 @@ Project experience
 Skills
 ======
 * Data Analysis: Stata, R
-* Programming: C/C++, Java, Python
+* Programming: C/C++, Java, Python, JavaScript, SQL
+* Web development: React, PHP
 
 
 Acedemic Awards
 ===
+* HKSAR Government Scholarship Fund - Talent Development Scholarship (2023)
 * *Dean's List* School of Engineering, HKUST (Every semesters at school)
 * *3rd* Tsinghua-HKUST Programming Contest (2022)
 * *Bronze Medel* International Collegiate Programming Contest (ICPC) Asia East Continent Final (2022)

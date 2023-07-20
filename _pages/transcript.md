@@ -92,13 +92,21 @@ Study leave for Internship.
 |UROP1100H|Undergraduate Research Opportunities Series 1|1|P||
 |Total||23|3.855|
 
-### Spring: Exchange at the University of Maryland
+### Spring: Exchange at the University of Maryland, U.S.
 
 |Course Code|Course Title|Credits|Grade|More|
 |:--:|:---|:--:|:--:|:--:|
-|CMSC416|Introduction to Parallel Computing|3||[Course materials](http://www.cs.umd.edu/class/spring2023/cmsc416/)|
-|CMSC430|Introduction to Compilers|3||[Course materials](https://www.cs.umd.edu/class/spring2023/cmsc430/)|
-|ECON423|Advanced Topics in Econometrics|3|||
-|ENEE205|Electric Circuits|4|||
-|PHIL100|Introduction to Philosophy|3|||
+|CMSC416|Introduction to Parallel Computing|3|A|[Course materials](http://www.cs.umd.edu/class/spring2023/cmsc416/)|
+|CMSC430|Introduction to Compilers|3|A+|[Course materials](https://www.cs.umd.edu/class/spring2023/cmsc430/)|
+|ECON423|Advanced Topics in Econometrics|3|A||
+|ENEE205|Electric Circuits|4|A+||
+|PHIL100|Introduction to Philosophy|3|A||
 |Total||16|||
+
+### Summer: Summer Program: Charles University, Czech Republic
+
+|Course Title|
+|:---|
+|Czech Language for Everyday Use|
+|Comparative Politics: Transformation of Czechoslovakia and Czech Republic|
+|Gender and Culture|
