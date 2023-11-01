@@ -10,23 +10,26 @@ redirect_from:
 {% include base_path %}
 
 
-I may look like a CS guy, but I want to do Economics research in the future.
-
 [PDF Version](https://zhang-zhong-hkust.github.io/files/CV.pdf)
 
 Education
 ======
 * The Hong Kong University of Science and Technology (2020-2024)
   * Bachelor of Engineering, Major in Computer Science, additional major in Economics
+  * Visiting to School of Economics, Fudan University, China
   * Exchange to University of Maryland, College Park, U.S.
   * Exchange to East and Central Europe Study, Charles University, Czech Republic
 
 
 Industrial experience
 ======
+* Sep-Dec 2023: Volunteer work at NGO
+  * [Sozo Fondation, Cape Town, South Africa](https://sozo.org.za/)
+  * Duties: *Operation Optimization*, *Community Interview*, *Full Stack Website development*, *Mentor in Coding school*
+
 * Feb-July 2022: Internship
   * ByteDance Ltd. *JS Virtual Machine team, R&D*.
-  * Duties included: *New Feature Development*, *Maintenance*, *Quality Assurance*
+  * Duties: *New Feature Development*, *Maintenance*, *Quality Assurance*
 
 
 Project experience
@@ -66,7 +69,7 @@ Skills
 ======
 * Data Analysis: Stata, R
 * Programming: C/C++, Java, Python, JavaScript, SQL
-* Web development: React, PHP
+* Web development: React, PHP, Css
 
 
 Acedemic Awards

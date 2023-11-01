@@ -74,7 +74,7 @@ Maybe someone is interested in my transcript / course enrollment :D
 
 ### Spring
 
-Study leave for Internship.
+Study leave for Internship at Bytedance Ltd.
 
 ## Year3 (2022-2023)
 
@@ -105,8 +105,13 @@ Study leave for Internship.
 
 ### Summer: Summer Program: Charles University, Czech Republic
 
-|Course Title|
-|:---|
-|Czech Language for Everyday Use|
-|Comparative Politics: Transformation of Czechoslovakia and Czech Republic|
-|Gender and Culture|
+|Course Title|Credits|Grade|
+|:---|:--:|:--:|
+|Czech Language for Everyday Use|3|C|
+|Comparative Politics: Transformation of Czechoslovakia and Czech Republic|3|B|
+|Gender and Culture|3|B+|
+
+## Year4 (2023-2024)
+
+### Fall
+Study leave for volunteer work at [Sozo fondation, Cape Town, South Africa](https://sozo.org.za/)
