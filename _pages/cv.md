@@ -11,6 +11,7 @@ redirect_from:
 
 
 [PDF Version](https://zhang-zhong-hkust.github.io/files/CV.pdf)
+[中文版](https://zhang-zhong-hkust.github.io/files/CV_CN.pdf)
 
 Education
 ======
@@ -25,9 +26,12 @@ Industrial experience
 ======
 * Sep-Dec 2023: Volunteer work at NGO
   * [Sozo Fondation, Cape Town, South Africa](https://sozo.org.za/)
+  * An organization that had helped countless unemployed youth in townships find their way to success
   * Duties: *Operation Optimization*, *Community Interview*, *Full Stack Website development*, *Mentor in Coding school*
+  * [Click for more (in Chinese)](https://mp.weixin.qq.com/s/wfwr0yTdiNFtdN-PTWGB4A)
 
 * Feb-July 2022: Internship
+  * My work improved performance of Bytedance Apps (e.g. TikTok) on mobile devices
   * ByteDance Ltd. *JS Virtual Machine team, R&D*.
   * Duties: *New Feature Development*, *Maintenance*, *Quality Assurance*
 
@@ -67,9 +71,9 @@ Project experience
 
 Skills
 ======
-* Data Analysis: Stata, R
 * Programming: C/C++, Java, Python, JavaScript, SQL
-* Web development: React, PHP, Css
+* Web development: HTML, React, PHP, Css
+* Data Analysis: Stata, R
 
 
 Acedemic Awards
