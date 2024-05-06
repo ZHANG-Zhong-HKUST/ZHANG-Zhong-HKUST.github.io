@@ -115,3 +115,15 @@ Study leave for Internship at Bytedance Ltd.
 
 ### Fall
 Study leave for volunteer work at [Sozo fondation, Cape Town, South Africa](https://sozo.org.za/)
+
+### Spring
+
+|Course Code|Course Title|Credits|
+|:--:|:---|:--:|
+|CENG1800|Introduction to Food Science and Technology|3|
+|COMP3071|Honors Competitive Programming|2|
+|ECON3024|Managerial Macroeconomics|4|
+|ECON3700|Writing as an Economist|3|
+|ECON4244|Economics of Human Behavior|4|
+|HUMA1000A|Cultures and Values: Language, Communication and Society|3|
+|LANG1024P|Chinese Writing in Cultural Contexts|3|

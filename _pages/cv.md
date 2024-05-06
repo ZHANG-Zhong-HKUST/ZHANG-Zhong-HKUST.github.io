@@ -74,6 +74,7 @@ Skills
 * Programming: C/C++, Java, Python, JavaScript, SQL
 * Web development: HTML, React, PHP, Css
 * Data Analysis: Stata, R
+* Sports: Scuba Diving, Marathon
 
 
 Acedemic Awards
